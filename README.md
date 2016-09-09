@@ -8,7 +8,7 @@ and unfaving any object from any application.
 * Install django-favit in your vilrtual env:
 
 ```
-pip install django-favit
+pip install -e git+http://github.com/northscope/django-favit#egg=django-favit
 ```
 
 * Add the app to your settings.py
